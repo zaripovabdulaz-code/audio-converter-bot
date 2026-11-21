@@ -48,8 +48,11 @@ Python 3.12, aiogram 3, ffmpeg, SQLite
 
 ## Skrinshotlar
 
-(bu yerga 2-3 ta skrinshot qo'shiladi)
-
+<p>
+  <img src="screenshots/start.png" width="250">
+  <img src="screenshots/formats.png" width="250">
+  <img src="screenshots/result.png" width="250">
+</p>
 ## Muallif
 
 Abdulaziz: [GitHub](https://github.com/zaripovabdulaz-code)
